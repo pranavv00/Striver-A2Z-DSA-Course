@@ -15,4 +15,10 @@ In this README, I'll document my progress through the Striver A2Z DSA Series. I 
 # Contribution
 Contributions to this repository are highly appreciated. If you have additional learning resources, improvements, or new problems to add, please feel free to contribute by opening a pull request.
 
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
+# Feedbacks
+For any questions or suggestions regarding this repository, feel free to contact us. We appreciate your feedback!
+
+Start your journey to mastering Data Structures and Algorithms today! Happy coding!

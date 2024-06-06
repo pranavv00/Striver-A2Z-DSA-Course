@@ -30,6 +30,8 @@ int main()
         case 7:
             cout<<"It's Sunday";
             break;
+        default:
+            cout<<"Invalid Input";
     }
 
     return 0;
